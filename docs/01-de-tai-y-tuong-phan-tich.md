@@ -67,16 +67,16 @@ Biến việc chọn món thành một trải nghiệm vui và nhanh
 
 | STT | Màn hình | Chức năng chính |
 |---|---|---|
-| 01 | Splash và Welcome | Giới thiệu ứng dụng, nút "Bắt đầu chọn món", thông điệp "Đừng mất 20 phút để nghĩ món" |
-| 02 | Trước khi quay | Màn hình chính với vòng quay, chọn tiêu chí (ăn trưa, dưới 70k, ăn đây...), mục "Trong kho có gì?" để chọn món/nguyên liệu sẵn có |
-| 03 | Đang quay | Hiệu ứng quay ngẫu nhiên, trạng thái "Đang quay" |
-| 04 | Kết quả quay | Hiển thị món được chọn kèm giá, mô tả; nút "Xem quán", "Lưu món"; liên kết Google Maps, GrabFood, ShopeeFood, chia sẻ; lựa chọn "Không thích món này?" |
-| 05 | Sau khi quay | Quay lại trang chính với nút "Thử lại" để quay lần nữa |
-| 06 | Khám phá | Chọn loại món (cơm, bún/phở, đồ Tây, healthy, ăn vặt, đồ uống) và ngân sách mỗi người bằng thanh trượt |
-| 07 | Món hợp gu | Danh sách khoảng 4 món vừa gu, vừa túi tiền; hiển thị giá, tổng ngân sách ước tính; nút "Xem chi tiết món" |
-| 08 | Kết quả / Chi tiết món | Thông tin chi tiết món, nút xem quán, lưu món, các liên kết đặt món |
-| 09 | Yêu thích | Danh sách món đã lưu (ví dụ: cơm tấm sườn bì chả) |
-| 10 | Lịch sử | Các món đã chọn, đã quay theo từng ngày (hôm nay, hôm qua), trạng thái đã chọn hoặc đã bỏ qua |
+01 | Khởi Đầu - Hôm Nay Ăn Gì? | Giới thiệu ứng dụng, hiển thị thông điệp chào mừng và nút bắt đầu chọn món.
+02 | Trang Chủ & Vòng Quay CS2 | Hiển thị vòng quay chọn món ngẫu nhiên, cho phép thiết lập tiêu chí ăn uống như ăn trưa, ngân sách và loại món.
+03 | Hiệu Ứng Đang Quay | Hiển thị hiệu ứng vòng quay ngẫu nhiên và trạng thái đang chọn món.
+04 | Kết Quả Trúng Món | Hiển thị món ăn được chọn, hình ảnh, giá tham khảo, mô tả và các chức năng xem quán, lưu món, chia sẻ.
+05 | Trang Chủ Sau Khi Quay | Cho phép người dùng quay lại trang chủ và nhấn nút thử lại để chọn món mới.
+06 | Khám Phá Gu Ẩm Thực | Cho phép khám phá món ăn theo danh mục như cơm, bún/phở, đồ Tây, healthy, ăn vặt và đồ uống; thiết lập ngân sách phù hợp.
+07 | Món Hợp Gu Bạn | Đề xuất danh sách món ăn phù hợp với sở thích và ngân sách, hiển thị giá tham khảo và nút xem chi tiết món.
+08 | Chi Tiết Món Ăn | Hiển thị hình ảnh, tên món, giá tham khảo, mô tả, địa điểm quán và các liên kết hỗ trợ đặt món.
+09 | Món Đã Lưu | Hiển thị danh sách món ăn yêu thích được lưu trên thiết bị, cho phép xem lại hoặc mở chi tiết món ăn.
+10 | Lịch Sử Chọn Món | Hiển thị lịch sử các món đã chọn hoặc đã quay theo từng ngày, bao gồm trạng thái đã chọn hoặc đã bỏ qua.
 
 Thanh điều hướng dưới cùng gồm 4 mục: **Trang chủ – Khám phá – Yêu thích – Lịch sử**.
 
