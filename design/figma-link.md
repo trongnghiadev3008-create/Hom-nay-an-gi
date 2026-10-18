@@ -1,23 +1,23 @@
 # Thiết kế Figma
 
 - Tên file: **Hôm nay ăn gì – ADR** 
-- Đường dẫn: [\[ link Figma \]](https://www.figma.com/design/mDwG2920bWY6eJ5khlYBEo/H%25C3%25B4m-nay-%25C4%2583n-g%25C3%25AC-%25E2%2580%2593-ADR-App?node-id=0-1&p=f&t=4fccuv6ByynQKfZU-0)
+- Đường dẫn: [\[ link Figma \]](https://www.figma.com/design/K2jr74HvZCG6bCB3WtMJ5J/H%C3%B4m-nay-%C4%83n-gif?node-id=0-1&t=dSFqmcf7LnGwIAiL-0)
 - Quyền truy cập:  chế độ "Anyone with the link can view" 
 
 ## Danh sách màn hình
 
 | STT | Màn hình |
 |---|---|
-| 01 | Splash và Welcome |
-| 02 | Trước khi quay |
-| 03 | Đang quay |
-| 04 | Kết quả quay |
-| 05 | Sau khi quay |
-| 06 | Khám phá |
-| 07 | Món hợp gu |
-| 08 | Kết quả / Chi tiết món |
-| 09 | Yêu thích |
-| 10 | Lịch sử |
+01 | Khởi Đầu - Hôm Nay Ăn Gì?
+02 | Trang Chủ & Vòng Quay CS2 
+03 | Hiệu Ứng Đang Quay 
+04 | Kết Quả Trúng Món
+05 | Trang Chủ Sau Khi Quay
+06 | Khám Phá Gu Ẩm Thực 
+07 | Món Hợp Gu Bạn
+08 | Chi Tiết Món Ăn
+09 | Món Đã Lưu 
+10 | Lịch Sử Chọn Món
 
 Ảnh xuất từ Figma của từng màn hình nằm trong thư mục [screenshots/](screenshots/).
 ![alt text](image.png)
